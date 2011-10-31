@@ -244,13 +244,7 @@ header
 NAV ============================
 */
 
-nav {  
-    position: absolute;  
-    left: 0;  
-    width: 600px;  
-    background: url("nav_background");  
-}  
-
+ 
 
 
 nav ul li { 
