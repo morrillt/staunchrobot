@@ -208,12 +208,93 @@ td { vertical-align: top; }
 
 
 /* ==|== primary styles =====================================================
-   Author: 
-   ========================================================================== */
+   Author:  Todd Morrill
+========================================================================== */
+
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+	
+}
+
+body {
+/* background-image: url("../img/birdamagedon.jpg"); */
+height: 100%;
+width: 100%;
+}
+
+/*
+HEADER ============================
+*/
+
+header
+{
+	width : 940px;
+}
+
+#title: {
+	width : 300px;
+}
 
 
 
 
+/*
+NAV ============================
+*/
+
+nav {  
+    position: absolute;  
+    left: 0;  
+    width: 600px;  
+    background: url("nav_background");  
+}  
+
+
+
+nav ul li { 
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;	
+}
+
+
+
+.button
+{
+	width:100px;
+	height:33px;
+	color: white;
+	-webkit-border-radius: 99px;
+	-moz-border-radius: 99px;
+	border-radius: 99px;
+	border:12px solid #ffffff;
+	background:rgba(0,0,0,.7);
+}
+
+/* Virtual Centerer Classes */
+<style type="text/css">
+	.vcentouter
+	{ 
+		position:absolute; 
+	}
+	
+	.vcentinner
+	{
+		top:50%;
+		}
+</style>
+
+
+/*
+#header
+{
+	hieght: 100%
+	width: 100%;
+}
+
+*?
 
 
 
