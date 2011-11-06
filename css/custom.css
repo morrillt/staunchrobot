@@ -1,0 +1,139 @@
+
+/* ==|== primary styles =====================================================
+   Author:  Todd Morrill
+========================================================================== */
+
+.spacer
+{
+	height: 10px;
+}
+
+.white 
+{
+	color: white;
+	padding:0 0 5px 0;
+	
+}
+
+.center
+{
+	text-align:center;
+}
+
+.container {
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+	
+}
+
+body {
+/*	color from font fuse 
+	background-color: #EDECE6; */
+/* background-image: url("../img/birdamagedon.jpg"); */
+height: 100%;
+width: 100%;
+}
+
+/*
+HEADER ============================
+*/
+
+header
+{
+	width : 940px;
+	margin: 10px 0 10px 0;
+}
+
+#title: {
+	width : 500px;
+}
+
+
+
+.thumbs {
+    vertical-align: middle;
+    width: 100%;
+}
+
+img {
+    vertical-align: inherit;
+    width: inherit;
+}
+
+h1 h3
+{
+	margin: 0 0 10px 0;
+}
+
+nav
+{
+	padding: 15px 0 0 0;
+	
+}
+
+footer
+{
+	position:fixed; 
+	bottom:0; 
+	width:100%;
+	height: 30px;
+	margin: 0 0 0 0;
+	background-color: black;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.footerwrapper {
+position:relative;
+margin:0 auto;
+text-align:left;
+}
+
+
+
+/*
+NAV ============================
+*/
+
+ 
+
+
+nav ul li { 
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;	
+}
+
+
+
+.button
+{
+	width:100px;
+	height:33px;
+	color: white;
+	-webkit-border-radius: 99px;
+	-moz-border-radius: 99px;
+	border-radius: 99px;
+	border:12px solid #ffffff;
+	background:rgba(0,0,0,.7);
+}
+
+
+
+
+/*
+#header
+{
+	hieght: 100%
+	width: 100%;
+}
+
+*/
+
+
+
+
+
+
+

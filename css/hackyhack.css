@@ -1,0 +1,11 @@
+/*just want the footer black for now, so i can go to bed with it looking nice */
+.hacky_footer
+{
+	position:fixed; 
+	bottom:0; 
+	width:100%;
+	height: 30px;
+	margin: 0 0 0 0;
+	background-color: black;
+	
+}
